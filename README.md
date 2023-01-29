@@ -70,7 +70,7 @@ flag: LA2022{lsb_in_your_area}
 
 **challenge: sus pdf**
 
-You can type strings suss.pdf | grep "LA2022" to solve this problem.
+You can type ```strings suss.pdf | grep "LA2022"``` to solve this problem.
 
 ![image](https://user-images.githubusercontent.com/121002781/215316602-5e4c283e-8540-490f-9d3c-b9e3e0da43b3.png)
 
