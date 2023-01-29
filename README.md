@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/121002781/215316752-1020e2c2-9ee9-4bf1-b58c-27da100ba068.png)
 
 ------------
-Color
+challenge: Color
 
 ![color](https://user-images.githubusercontent.com/121002781/215315619-0493dd61-9906-4ff1-a471-3971675b30eb.png)
 
@@ -15,7 +15,7 @@ hex color is "4c4132 303232 7b6833 785f63 306c6f 75727d" and decrypt hex will ge
 flag: LA2022{h3x_c0lour}
 
 ------------
-so Dark
+challenge:so Dark
 
 ![dark](https://user-images.githubusercontent.com/121002781/215315767-3145aa86-13cc-41d4-943e-71527bca6607.png)
 
@@ -24,7 +24,7 @@ You can use the website https://stegonline.georgeom.net/ and select Layer Blue 0
 
 flag: LA2022{yes_iam_her3}
 ------------
-snowy
+challenge: snowy
 
 [snow.txt](https://github.com/ippo1337/writeup_LAOS_Playground_CTF/files/10529398/snow.txt)
 
@@ -34,7 +34,8 @@ You can use a tool called stegsnow to solve the problem.
 
 flag: LA2022{sn0w_in_space}
 ------------
-Mission
+challenge: Mission
+
 [file.zip](https://github.com/ippo1337/writeup_LAOS_Playground_CTF/files/10529404/file.zip)
 
 key.wav file, you should use a device capable of viewing the spectrogram. 
@@ -47,7 +48,7 @@ key is: 37AFD?
 
 flag: LA2022{sp3ctrum_1s_waku_waku} 
 ------------
-Loid S Borger
+challenge: Loid S Borger
 
 ![LoidSBorger](https://user-images.githubusercontent.com/121002781/215316325-fa9aecea-11bf-4a8d-9d10-fcefe9687b4d.png)
 
@@ -57,7 +58,7 @@ You can use a tool called zsteg to solve this problem.
 
 flag: LA2022{lsb_in_your_area}
 ------------
-sus pdf
+challenge: sus pdf
 
 You can type strings suss.pdf | grep "LA2022" to solve this problem.
 
@@ -65,12 +66,12 @@ You can type strings suss.pdf | grep "LA2022" to solve this problem.
 
 flag: LA2022{waku_waku_pdf}
 ------------
-Where My Qrcode?
+challenge: Where My Qrcode?
 
 [where-qrcode.zip](https://github.com/ippo1337/writeup_LAOS_Playground_CTF/files/10529429/where-qrcode.zip)
 
 You can look at each picture and write down what is in the picture.
-
+````
 0000000100010011010000000
 0111110100011010110111110
 0100010101001000110100010
@@ -96,7 +97,7 @@ You can look at each picture and write down what is in the picture.
 0100010111111110011001001
 0111110100010100101011100
 0000000101001001000111010
-
+````
 flag: LA2022{w0w_th4nk55}
 
 
